@@ -698,6 +698,10 @@ ul {
     .slides-container__title--dark {
         color: rgb(243, 164, 45);
     }
+
+    .slides-container__title {
+      color: rgb(243, 164, 45);
+    }
   
     .wrapper {
       flex-direction: column-reverse;
